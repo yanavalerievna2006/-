@@ -1,0 +1,516 @@
+@media (min-width: 2000px) {
+    body, .main{
+        margin: 0px;
+        width: 100%;
+        background-color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .img{
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 150px 40px 100px 40px;
+    }
+    .block{
+        width: 80%;
+        height: 180px;
+        border-radius: 20px;
+        background-color: #fff;
+        display: flex;
+        align-items: left;
+        justify-content: center;
+        flex-direction: row;
+        margin: 5% 4% 4% 4% ;
+        box-shadow: 5px 5px 15px #79797926 ;
+
+    }
+    .leftbl{
+        margin: 1% 50% 20% 0;
+        padding:0 10% 0 0;
+
+    }
+    .goris{
+        display: flex;
+        height: 60px;
+        width: 80%;
+        justify-content: center;
+        flex-direction: row;
+    }
+    button{
+        font-size: 16px;
+        color: #fff;
+        border-radius: 0px 20px 20px 0px ;
+        width: 199px;
+        height: 60px;
+        border: solid 0px;
+        background-color:#FEA300 ;
+        margin: 0;
+        
+    }
+    .but{
+        border-radius: 15px ;
+        padding: 15px 70px 15px 70px;
+        width: 189px;
+        height: 48px;
+        font-family: monospace;
+
+    }
+    input{
+        border-radius: 20px 0 0 20px;
+        border: solid 0px;
+        width: 80%;
+        font-size: 24px;
+        background-color: #f7f7f7 ;
+        font-family: monospace;
+        padding: 0 0 0 30px;
+
+    }
+    .textmin{
+        margin: 0 0 0 5px;
+        line-height: 30px;
+        font-size: 20px;
+        font-weight: 800;
+        font-family: monospace;
+        padding: 0 0 20px 0;
+    }
+    .i{
+        margin:0 -50px 0 0 ;
+    }
+    .i{
+        width: 450px;
+        height: 157px;
+    }
+    .i0{
+        display: none;
+    }
+    .i1{
+        padding: 10px 0 0 0;
+    }
+    .i2{
+        padding: 0 0 65px 20px;
+    }
+    .i3{
+        padding: 0 5px 20px 50px;
+    }
+    input::placeholder {
+        display: flex;
+        background: url("Search.svg") no-repeat ;
+        background-position: 0% 80%;
+        font-size: 16px;
+        padding-left: 30px;
+    }
+}
+@media (min-width: 1500px) and (max-width: 2000px) {
+    body, .main{
+        margin: 0px;
+        background-color: #fff;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .img{
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 150px 40px 100px 40px;
+    }
+    .block{
+        width: 80%;
+        height: 180px;
+        border-radius: 20px;
+        background-color: #fff;
+        display: flex;
+        align-items: left;
+        justify-content: center;
+        flex-direction: row;
+        margin: 5% 4% 4% 4% ;
+        box-shadow: 5px 5px 15px #79797926 ;
+
+    }
+    .leftbl{
+        margin: 1% 40% 20% 0;
+        padding:0 10% 0 0;
+
+    }
+    .goris{
+        display: flex;
+        height: 60px;
+        width: 80%;
+        justify-content: center;
+        flex-direction: row;
+    }
+    button{
+        font-size: 16px;
+        color: #fff;
+        border-radius: 0px 20px 20px 0px ;
+        width: 199px;
+        height: 60px;
+        border: solid 0px;
+        background-color:#FEA300 ;
+        margin: 0;
+        
+    }
+    .but{
+        border-radius: 15px ;
+        padding: 15px 70px 15px 70px;
+        width: 189px;
+        height: 48px;
+        font-family: monospace;
+
+    }
+    input{
+        border-radius: 20px 0 0 20px;
+        border: solid 0px;
+        width: 80%;
+        font-size: 24px;
+        background-color: #f7f7f7 ;
+        font-family: monospace;
+        padding: 0 0 0 30px;
+
+    }
+    .textmin{
+        margin: 0 0 0 5px;
+        line-height: 30px;
+        font-size: 20px;
+        font-weight: 800;
+        font-family: monospace;
+        padding: 0 0 20px 0;
+    }
+    .i{
+        margin:0 -50px 0 0 ;
+    }
+    .i{
+        width: 450px;
+        height: 157px;
+    }
+    .i0{
+        display: none;
+    }
+    .i1{
+        padding: 10px 0 0 0;
+    }
+    .i2{
+        padding: 0 0 65px 20px;
+    }
+    .i3{
+        padding: 0 5px 20px 50px;
+    }
+    input::placeholder {
+        display: flex;
+        background: url("Search.svg") no-repeat ;
+        background-position: 0% 80%;
+        font-size: 16px;
+        padding-left: 30px;
+    }
+}
+@media (min-width: 1050px) and (max-width: 1500px) {
+    body, .main{
+        margin: 0px;
+        width: 100%;
+        background-color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .img{
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 150px 40px 100px 40px;
+    }
+    .block{
+        width: 80%;
+        height: 180px;
+        border-radius: 20px;
+        background-color: #fff;
+        display: flex;
+        align-items: left;
+        justify-content: center;
+        flex-direction: row;
+        margin: 5% 4% 4% 4% ;
+        box-shadow: 5px 5px 15px #79797926 ;
+
+    }
+    .leftbl{
+        margin: 1% 20% 20% 0;
+        padding:0 10% 0 0;
+
+    }
+    .goris{
+        display: flex;
+        height: 60px;
+        width: 80%;
+        justify-content: center;
+        flex-direction: row;
+    }
+    button{
+        font-size: 16px;
+        color: #fff;
+        border-radius: 0px 20px 20px 0px ;
+        width: 199px;
+        height: 60px;
+        border: solid 0px;
+        background-color:#FEA300 ;
+        margin: 0;
+        
+    }
+    .but{
+        border-radius: 15px ;
+        padding: 15px 70px 15px 70px;
+        width: 189px;
+        height: 48px;
+        font-family: monospace;
+
+    }
+    input{
+        border-radius: 20px 0 0 20px;
+        border: solid 0px;
+        width: 826px;
+        font-size: 24px;
+        background-color: #f7f7f7 ;
+        font-family: monospace;
+        padding: 0 0 0 30px;
+
+    }
+    .textmin{
+        margin: 0 0 0 5px;
+        line-height: 30px;
+        font-size: 20px;
+        font-weight: 800;
+        font-family: monospace;
+        padding: 0 0 20px 0;
+    }
+    .i{
+        margin:0 -50px 0 0 ;
+    }
+    .i{
+        width: 450px;
+        height: 157px;
+    }
+    .i0{
+        display: none;
+    }
+    .i1{
+        padding: 10px 0 0 0;
+    }
+    .i2{
+        padding: 0 0 65px 20px;
+    }
+    .i3{
+        padding: 0 5px 20px 50px;
+    }
+    input::placeholder {
+        display: flex;
+        background: url("Search.svg") no-repeat ;
+        background-position: 0% 80%;
+        font-size: 16px;
+        padding-left: 30px;
+    }
+}
+@media (min-width: 650px) and (max-width: 1050px) {
+    body, .main{
+        background-color: #fff;
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .img{
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 10% 5% 10% 5%;
+    }
+    .block{
+        width: 80%;
+        height: 240px;
+        border-radius: 20px;
+        background-color: #FFF3DD;
+        display: flex;
+        align-items: left;
+        justify-content: center;
+        flex-direction: row;
+        margin: 13% 5% 5% 5% ;
+        box-shadow: 5px 5px 35px #79797926 ;
+    
+    }
+    .leftbl{
+        width: 80% ;
+        margin: 6% 0% 4% 2%;
+        padding:0 0 0 0;
+    
+    }
+    .goris{
+        display: flex;
+        justify-content: center;
+        height: 60px;
+        width: 100%;
+        flex-direction: row;
+    }
+    button{
+        display: none;
+    }
+    .but{
+        border-radius: 15px ;
+        padding: 15px 70px 15px 70px;
+        width: 189px;
+        height: 48px;
+        font-family: monospace;
+    
+    }
+    input{
+        border-radius: 20px;
+        border: solid 0px;
+        width: 80%;
+        font-size: 24px;
+        background-color: #f7f7f7 ;
+        font-family: monospace;
+        padding: 0 0 0 2%;
+    
+    }
+    .textmin{
+        width: 100%;
+        margin: 0 0 0 5%;
+        line-height: 30px;
+        font-size: 20px;
+        font-weight: 800;
+        font-family: monospace;
+        padding: 0 0 20px 0;
+    }
+    .imgs0{
+        margin: 0 0 0 0%;
+        height: 100%;
+        display: flex;
+    }
+    .imgs1{
+        display: none;
+    }
+    .imgs2{
+        display: none;
+    }
+    .imgs3{
+         display: none;
+        
+    }
+    input::placeholder {
+        display: flex;
+        background: url("Search.svg") no-repeat ;
+        background-position: 0% 80%;
+        font-size: 16px;
+        padding-left: 30px;
+    }
+}
+@media (max-width: 650px) {
+    body, .main{
+        background-color: #fff;
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .img{
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 10% 5% 10% 5%;
+    }
+    .block{
+        width: 80%;
+        height: 240px;
+        border-radius: 20px;
+        background-color: #FFF3DD;
+        display: flex;
+        align-items: left;
+        justify-content: center;
+        flex-direction: row;
+        margin: 13% 5% 5% 5% ;
+        box-shadow: 5px 5px 35px #79797926 ;
+    
+    }
+    .leftbl{
+        width: 80% ;
+        margin: 6% 0% 4% 2%;
+        padding:0 0 0 0;
+    
+    }
+    .goris{
+        display: flex;
+        justify-content: center;
+        height: 60px;
+        width: 100%;
+        flex-direction: row;
+    }
+    button{
+        display: none;
+    }
+    .but{
+        border-radius: 15px ;
+        padding: 15px 70px 15px 70px;
+        width: 189px;
+        height: 48px;
+        font-family: monospace;
+    
+    }
+    input{
+        border-radius: 20px;
+        border: solid 0px;
+        width: 80%;
+        font-size: 24px;
+        background-color: #f7f7f7 ;
+        font-family: monospace;
+        padding: 0 0 0 2%;
+    
+    }
+    .textmin{
+        width: 100%;
+        margin: 0 0 0 5%;
+        line-height: 30px;
+        font-size: 20px;
+        font-weight: 800;
+        font-family: monospace;
+        padding: 0 0 20px 0;
+    }
+    .i0{
+        display: flex;
+    }
+    .i1{
+        display: none;
+    }
+    .i2{
+        display: none;
+    }
+    .i3{
+         display: none;
+        
+    }
+    input::placeholder {
+        display: flex;
+        background: url("Search.svg") no-repeat ;
+        background-position: 0% 80%;
+        font-size: 16px;
+        padding-left: 30px;
+    }
+}
